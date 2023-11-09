@@ -1,5 +1,5 @@
 {
-  "name": "@bet-service/server",
+  "name": "@bet-service-1/server",
   "private": true,
   "scripts": {
     "start": "nest start",
